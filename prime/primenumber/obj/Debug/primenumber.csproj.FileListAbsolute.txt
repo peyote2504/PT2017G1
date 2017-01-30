@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\primenumber\primenumber\bin\Debug\primenumber.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\primenumber\primenumber\bin\Debug\primenumber.exe
+c:\users\asus\documents\visual studio 2015\Projects\primenumber\primenumber\bin\Debug\primenumber.pdb
+c:\users\asus\documents\visual studio 2015\Projects\primenumber\primenumber\obj\Debug\primenumber.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\primenumber\primenumber\obj\Debug\primenumber.exe
+c:\users\asus\documents\visual studio 2015\Projects\primenumber\primenumber\obj\Debug\primenumber.pdb
