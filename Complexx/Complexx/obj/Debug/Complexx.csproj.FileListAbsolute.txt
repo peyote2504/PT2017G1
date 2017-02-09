@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\Complexx\Complexx\bin\Debug\Complexx.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Complexx\Complexx\bin\Debug\Complexx.exe
+c:\users\asus\documents\visual studio 2015\Projects\Complexx\Complexx\bin\Debug\Complexx.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Complexx\Complexx\obj\Debug\Complexx.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Complexx\Complexx\obj\Debug\Complexx.exe
+c:\users\asus\documents\visual studio 2015\Projects\Complexx\Complexx\obj\Debug\Complexx.pdb
